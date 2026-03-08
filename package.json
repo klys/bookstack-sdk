@@ -1,13 +1,20 @@
 {
-  "name": "bookstacksdk",
+  "name": "bookstack-sdk",
   "version": "1.0.0",
   "description": "",
   "type": "module",
-  "main": "bookstackSDK.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Junior Jimenez",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klys/bookstack-sdk"
+  },
+   "bugs": {
+       "url": "https://github.com/klys/bookstack-sdk/issues"  
+  },
   "license": "ISC"
 }

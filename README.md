@@ -5,7 +5,7 @@ A lightweight Node.js SDK for the [BookStack API](https://demo.bookstackapp.com/
 ## Installation
 
 ```bash
-npm install bookstacksdk
+npm install bookstack-sdk
 ```
 
 ## Requirements
@@ -15,7 +15,7 @@ npm install bookstacksdk
 ## Quick Start
 
 ```js
-import BookstackSDK from 'bookstacksdk';
+import BookstackSDK from 'bookstack-sdk';
 
 const sdk = new BookstackSDK({
   apiHost: 'https://docs.your-domain.com',
